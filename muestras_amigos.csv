@@ -1,31 +1,111 @@
-muestra,estrella
-Tuli,75
-Tuli,96
-Tuli,28
-Tuli,70
-Tuli,73
-Tuli,100
-Tuli,23
-Tuli,65
-Tuli,58
-Tuli,74
-Manu,52
-Manu,98
-Manu,55
-Manu,25
-Manu,22
-Manu,10
-Manu,20
-Manu,95
-Manu,36
-Manu,7
-Mati,66
-Mati,8
-Mati,9
-Mati,1
-Mati,97
-Mati,34
-Mati,12
-Mati,54
-Mati,24
-Mati,78
+muestra,estrella,sexo
+Tuli,75,F
+Tuli,96,F
+Tuli,28,F
+Tuli,70,F
+Tuli,73,F
+Tuli,100,F
+Tuli,23,F
+Tuli,65,F
+Tuli,58,F
+Tuli,74,F
+Manu,52,F
+Manu,98,F
+Manu,55,F
+Manu,25,F
+Manu,22,F
+Manu,10,F
+Manu,20,F
+Manu,95,F
+Manu,36,F
+Manu,7,F
+Mati,66,M
+Mati,8,M
+Mati,9,M
+Mati,1,M
+Mati,97,M
+Mati,34,M
+Mati,12,M
+Mati,54,M
+Mati,24,M
+Mati,78,M
+Lucas,16,M
+Lucas,33,M
+Lucas,32,M
+Lucas,44,M
+Lucas,58,M
+Lucas,72,M
+Lucas,96,M
+Lucas,84,M
+Lucas,41,M
+Lucas,22,M
+Gaby,50,F
+Gaby,51,F
+Gaby,99,F
+Gaby,100,F
+Gaby,19,F
+Gaby,26,F
+Gaby,21,F
+Gaby,28,F
+Gaby,94,F
+Gaby,76,F
+Lauti,96,M
+Lauti,14,M
+Lauti,18,M
+Lauti,32,M
+Lauti,56,M
+Lauti,45,M
+Lauti,67,M
+Lauti,77,M
+Lauti,1,M
+Lauti,12,M
+Lu,30,F
+Lu,73,F
+Lu,6,F
+Lu,19,F
+Lu,60,F
+Lu,29,F
+Lu,51,F
+Lu,91,F
+Lu,96,F
+Lu,84,F
+Fran,99,M
+Fran,59,M
+Fran,70,M
+Fran,43,M
+Fran,44,M
+Fran,32,M
+Fran,57,M
+Fran,31,M
+Fran,80,M
+Fran,75,M
+Giuli,70,F
+Giuli,28,F
+Giuli,8,F
+Giuli,72,F
+Giuli,33,F
+Giuli,91,F
+Giuli,26,F
+Giuli,50,F
+Giuli,1,F
+Giuli,100,F
+dado 100 caras,67,
+dado 100 caras,92,
+dado 100 caras,35,
+dado 100 caras,72,
+dado 100 caras,89,
+dado 100 caras,15,
+dado 100 caras,61,
+dado 100 caras,14,
+dado 100 caras,57,
+dado 100 caras,40,
+2 dados 20 caras,73,
+2 dados 20 caras,53,
+2 dados 20 caras,49,
+2 dados 20 caras,40,
+2 dados 20 caras,59,
+2 dados 20 caras,65,
+2 dados 20 caras,40,
+2 dados 20 caras,33,
+2 dados 20 caras,63,
+2 dados 20 caras,28,
