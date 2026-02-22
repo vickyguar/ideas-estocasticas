@@ -24,7 +24,7 @@ El ser humano no es bueno generando aleatoriedad. Estamos diseñados para detect
 
 ![boxplots](images/boxplots.png)
 
-## Colorario 1: bootstrap
+## Corolario 1: bootstrap
 
 ![bootstrap](images/bootstrap.gif)
 
