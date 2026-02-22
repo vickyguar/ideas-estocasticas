@@ -6,7 +6,7 @@ La simulación completa se encuentra en [esta notebook](notebook.ipynb).
 
 ## Descripción
 
-A partir de esa consigna, construí una población artificial de estrellas (ver la [población](images/cielo_estrellado.png)) y le pedí a algunos amigos que eligieran, también "al azar", una muestra de 10 estrellas que resulte representativa de la población. Luego comparé:
+Inspirada en la consigna del taller, construí una población artificial de estrellas (ver la [población](images/cielo_estrellado.png)) y le pedí a algunos amigos que eligieran, también "al azar", una muestra de 10 estrellas que resulte representativa de la población. Luego comparé:
 
 - Las superficies de las estrellas seleccionadas por personas (con sus sesgos).
 - Muestras generadas aleatoriamente con `pd.DataFrame.sample`.
