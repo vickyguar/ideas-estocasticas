@@ -48,7 +48,7 @@ El ser humano no es bueno generando aleatoriedad. Estamos diseñados para detect
 > 
 > Y bueno, aleatorio no es lo mismo que al azar.
 
-<p align="center">
-  <img src="images/patron_racing.jpg" height="300px" />
-  <img src="images/patron_barrilete_cosmico.jpg" height="300px" />
+<p align="left">
+  <img src="images/patron_racing.jpg" height="500px" />
+  <img src="images/patron_barrilete_cosmico.jpg" height="500px" />
 </p>
