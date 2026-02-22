@@ -1,12 +1,12 @@
 # ideas-estocasticas
 
-Repositorio inspirado en el taller **“Ideas estocásticas fundamentales que conectan el análisis exploratorio y la inferencia informal”**, dictado por la Dra. Liliana Tauber, la Mgtr. Silvana Santellán y la Mgtr. Yanina Redondo, en la II Jornada de Enseñanza de la Estadística.
+Repositorio inspirado en el taller **“Ideas estocásticas fundamentales que conectan el análisis exploratorio y la inferencia informal”**, dictado por la Dra. Liliana Tauber, la Mgtr. Silvana Santellán y la Mgtr. Yanina Redondo, en la II Jornada de Enseñanza de la Estadística ([+info](https://reunion2025.gab.com.ar/wp-content/uploads/2025/07/TAUBER-OTROS.pdf)).
 
 La simulación completa se encuentra en [esta notebook](notebook.ipynb).
 
 ## Descripción
 
-Inspirada en la consigna del taller, construí una población artificial de estrellas (ver la [población](images/cielo_estrellado.png)) y le pedí a algunos amigos que eligieran, también "al azar", una muestra de 10 estrellas que resulte representativa de la población. Luego comparé:
+Inspirada en la consigna del taller, construí una población artificial de estrellas (ver la [población](images/cielo_estrellado.png)) y le pedí a algunos amigos que eligieran "al azar" una muestra de 10 estrellas que resulte representativa de la población. Luego comparé:
 
 - Las superficies de las estrellas seleccionadas por personas (con sus sesgos).
 - Muestras generadas aleatoriamente con `pd.DataFrame.sample`.
@@ -24,7 +24,11 @@ El ser humano no es bueno generando aleatoriedad. Estamos diseñados para detect
 
 ![boxplots](images/boxplots.png)
 
-### Corolario: pensamientos muy random sobre los patrones 
+## Colorario 1: bootstrap
+
+![bootstrap](images/bootstrap.gif)
+
+## Corolario 2: pensamientos muy random sobre los patrones 
 
 > Hay patrones de conducta.
 > 
