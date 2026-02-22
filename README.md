@@ -1,6 +1,6 @@
 # ideas-estocasticas
 
-Repositorio inspirado en el taller **“Ideas estocásticas fundamentales que conectan el análisis exploratorio y la inferencia informal”**, dictado por la Dra. Liliana Tauber, la Mgtr. Silvana Santellán y la Mgtr. Yanina Redondo, en la II Jornada de Enseñanza de la Estadística ([+info](https://reunion2025.gab.com.ar/wp-content/uploads/2025/07/TAUBER-OTROS.pdf)).
+Repositorio inspirado en el taller **"Ideas estocásticas fundamentales que conectan el análisis exploratorio y la inferencia informal"**, dictado por la Dra. Liliana Tauber, la Mgtr. Silvana Santellán y la Mgtr. Yanina Redondo, en la II Jornada de Enseñanza de la Estadística ([+info](https://reunion2025.gab.com.ar/wp-content/uploads/2025/07/TAUBER-OTROS.pdf)).
 
 La simulación completa se encuentra en [esta notebook](notebook.ipynb).
 
